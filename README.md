@@ -1,2 +1,2 @@
 # goit-rdb-hw-03
-SQL DDL Comand
+DQL comand in SQL
